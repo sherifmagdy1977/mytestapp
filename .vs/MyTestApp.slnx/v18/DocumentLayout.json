@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyTestApp\\",
+  "WorkspaceRootPath": "D:\\mytestapp2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAB9241E-9B2A-E917-1665-6C036C1930BD}|MyTestApp\\MyTestApp.csproj|d:\\mytestapp\\mytestapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EAB9241E-9B2A-E917-1665-6C036C1930BD}|MyTestApp\\MyTestApp.csproj|d:\\mytestapp2026\\mytestapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EAB9241E-9B2A-E917-1665-6C036C1930BD}|MyTestApp\\MyTestApp.csproj|solutionrelative:mytestapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\MyTestApp\\MyTestApp\\Pages\\Index.cshtml",
+              "DocumentMoniker": "D:\\mytestapp2026\\MyTestApp\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "MyTestApp\\Pages\\Index.cshtml",
-              "ToolTip": "D:\\MyTestApp\\MyTestApp\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\mytestapp2026\\MyTestApp\\Pages\\Index.cshtml",
               "RelativeToolTip": "MyTestApp\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

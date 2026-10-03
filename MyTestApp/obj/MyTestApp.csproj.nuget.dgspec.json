@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyTestApp\\MyTestApp\\MyTestApp.csproj": {}
+    "D:\\mytestapp2026\\MyTestApp\\MyTestApp.csproj": {}
   },
   "projects": {
-    "D:\\MyTestApp\\MyTestApp\\MyTestApp.csproj": {
+    "D:\\mytestapp2026\\MyTestApp\\MyTestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyTestApp\\MyTestApp\\MyTestApp.csproj",
+        "projectUniqueName": "D:\\mytestapp2026\\MyTestApp\\MyTestApp.csproj",
         "projectName": "MyTestApp",
-        "projectPath": "D:\\MyTestApp\\MyTestApp\\MyTestApp.csproj",
+        "projectPath": "D:\\mytestapp2026\\MyTestApp\\MyTestApp.csproj",
         "packagesPath": "C:\\Users\\SHERIF\\.nuget\\packages\\",
-        "outputPath": "D:\\MyTestApp\\MyTestApp\\obj\\",
+        "outputPath": "D:\\mytestapp2026\\MyTestApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
